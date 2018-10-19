@@ -1,0 +1,89 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "bbXMesg5eqEjLs7Riad0kHzS/0Q=",
+			"path": "github.com/mailru/easyjson",
+			"revision": "60711f1a8329503b04e1c88535f419d0bb440bff",
+			"revisionTime": "2018-08-23T13:54:43Z"
+		},
+		{
+			"checksumSHA1": "euMY7SmXXGeDit90eC8FPzDT1SU=",
+			"path": "github.com/mailru/easyjson/buffer",
+			"revision": "60711f1a8329503b04e1c88535f419d0bb440bff",
+			"revisionTime": "2018-08-23T13:54:43Z"
+		},
+		{
+			"checksumSHA1": "gXc7hxqTywruTPu2glQy1CmWzuY=",
+			"path": "github.com/mailru/easyjson/jlexer",
+			"revision": "60711f1a8329503b04e1c88535f419d0bb440bff",
+			"revisionTime": "2018-08-23T13:54:43Z"
+		},
+		{
+			"checksumSHA1": "8uahZmmPJqtj80oEIRELmEF8DSE=",
+			"path": "github.com/mailru/easyjson/jwriter",
+			"revision": "60711f1a8329503b04e1c88535f419d0bb440bff",
+			"revisionTime": "2018-08-23T13:54:43Z"
+		},
+		{
+			"checksumSHA1": "RxaJ1q61Pf+1nMIB0yrT/+KtWs8=",
+			"path": "github.com/olivere/elastic",
+			"revision": "eb69fbabfd6151d6c0f6d3d850d4f61edcff3763",
+			"revisionTime": "2016-10-08T09:19:33Z"
+		},
+		{
+			"path": "github.com/olivere/elastic/config",
+			"revision": "eb69fbabfd6151d6c0f6d3d850d4f61edcff3763"
+		},
+		{
+			"checksumSHA1": "u9MzFGzGHPLRSI+Uuihe2xCCbHk=",
+			"path": "github.com/olivere/elastic/uritemplates",
+			"revision": "eb69fbabfd6151d6c0f6d3d850d4f61edcff3763",
+			"revisionTime": "2016-10-08T09:19:33Z"
+		},
+		{
+			"checksumSHA1": "cWpu81/hYoLS4dRySWvEUhNdtbA=",
+			"path": "github.com/pkg/errors",
+			"revision": "2233dee583dcf88f3c8b22cb7a33f05a499800d8",
+			"revisionTime": "2018-10-08T04:53:15Z"
+		},
+		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"path": "golang.org/x/net/context",
+			"revision": "04a2e542c03f1d053ab3e4d6e5abcd4b66e2be8e",
+			"revisionTime": "2018-10-17T11:24:37Z"
+		},
+		{
+			"checksumSHA1": "jWlBRALwERf/Gv46hCYr3AdiIS0=",
+			"path": "gopkg.in/olivere/elastic.v2/uritemplates",
+			"revision": "2cd27b9ae892f6b4dd8dd6d73489797c99e9c6fa",
+			"revisionTime": "2018-05-17T14:35:08Z"
+		},
+		{
+			"checksumSHA1": "TZeFDuACWDV1xAhPBGjEORzt5+k=",
+			"path": "gopkg.in/olivere/elastic.v5",
+			"revision": "fc3063a8c0686f64e94f4b2c17eb140c06eb6793",
+			"revisionTime": "2018-09-20T17:30:04Z"
+		},
+		{
+			"checksumSHA1": "8cMESgNSGNe6LsZGyfbMXx75glM=",
+			"path": "gopkg.in/olivere/elastic.v5/config",
+			"revision": "fc3063a8c0686f64e94f4b2c17eb140c06eb6793",
+			"revisionTime": "2018-09-20T17:30:04Z"
+		},
+		{
+			"checksumSHA1": "x+ZyEkEsXKU47ycfEaegO0lxQpc=",
+			"path": "gopkg.in/olivere/elastic.v5/uritemplates",
+			"revision": "fc3063a8c0686f64e94f4b2c17eb140c06eb6793",
+			"revisionTime": "2018-09-20T17:30:04Z"
+		},
+		{
+			"checksumSHA1": "ty2ZGYMfCoFSvWYtbC2jE/LX6jk=",
+			"path": "gopkg.in/olivere/elastic.v6",
+			"revision": "425e5369a8f054f4f447f7c8ee1bf605f48425ab",
+			"revisionTime": "2018-10-11T18:14:04Z"
+		}
+	],
+	"rootPath": "demo"
+}
